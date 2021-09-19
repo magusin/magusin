@@ -10,4 +10,4 @@ Formation qui a duré 6 mois et c'est terminé en Aout, maintenant je reprend l'
 🙂 Grace à l'autoapprentissage qui me l'avait bien confirmé et la formation je sais que je veux être développeur web.  
 Je n'ai ni enfant ni famille ni attache et je suis disponible dans toute la France ou au delà pour me consacrer à 200% à la vie d'une entreprise ou structure.
 
-![Cover](https://github.com/magusin/magusin/blob/main/cover.jpg)
+
