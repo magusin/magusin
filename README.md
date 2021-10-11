@@ -11,7 +11,7 @@ Formation qui a duré 6 mois et c'est terminé en Aout, maintenant je reprend l'
 Je n'ai ni enfant ni famille ni attache et je suis disponible dans toute la France ou au delà pour me consacrer à 200% à la vie d'une entreprise ou structure.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magusin&show_icons=true&theme=radical)](https://github.com/magusin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magusin&count_private=true=true&theme=radical)](https://github.com/magusin/github-readme-stats)
 
 
 
