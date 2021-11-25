@@ -2,7 +2,7 @@
 
 
 😄 Bonjour à vous et bienvenu sur mon Github.  
-Je me nomme Hugo, j'ai 29 ans.  
+Je me nomme Hugo, j'ai 30 ans.  
 Après des années dans l'industrie j'ai décidé d'essayer le développement web qui semblait mieux me convenir.  
 Après un mois d'apprentissage en autodidacte j'ai voulu en apprendre plus et j'ai décidé d'entreprendre une formation avec l'école O'clock.  
 Formation qui a duré 6 mois et c'est terminé en Aout, maintenant je reprends l'auto apprentissage pour continuer à découvrir et à apprendre ^^.  
